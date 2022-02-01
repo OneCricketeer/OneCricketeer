@@ -13,6 +13,11 @@
 
 ---
 
+[![Keybase PGP](https://img.shields.io/keybase/pgp/onecricketeer)](https://keybase.io/onecricketeer/pgp_keys.asc) [![](https://img.shields.io/badge/support-Buy%20me%20a%20tea-orange)](https://www.buymeacoffee.com/WKoqy3n)
+
+
+---
+
 <!--
 ### 🧰 Toolbox
 
