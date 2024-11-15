@@ -34,6 +34,10 @@
 
 ### 🏗️ Project highlights (sorted in descending chronological order)
 
+##### Internal Developer Platforms
+- [CNCF CNOE & `idpbuilder`](https://github.com/cnoe-io/idpbuilder)
+- [Spotify Backstage](https://github.com/backstage/backstage)
+
 ##### Containers 🐳
 
 - [Gryllidae](https://github.com/OneCricketeer/gryllidae)
@@ -42,6 +46,7 @@
 ##### Event Driven Applications 📨
 
 - **Apache Kafka**
+  - [An (un-)official, slim, secure, Kafka Connect image](https://github.com/OneCricketeer/apache-kafka-connect-docker) 
   - [Confluent Schema Registry contributions](https://github.com/confluentinc/schema-registry/pulls?q=is%3Apr+author%3AOneCricketeer+is%3Aclosed+review%3Aapproved)
   - [Kafka Streams w/ Jib](https://github.com/OneCricketeer/kafka-streams-jib-example)
 - **ZeroMQ** - [pyzmq-learning](https://github.com/OneCricketeer/pyzmq-learning)
